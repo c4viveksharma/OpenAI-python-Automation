@@ -1,4 +1,4 @@
-# OpenAI-python-Automeation
+# OpenAI-python-Automation
 Python command line script 
 
 This project is a command line tool that uses Python to connect to the OpenAI API. It allows you to pass a script name and instructions as arguments to generate code, and write the output to a specified file.
